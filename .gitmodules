@@ -1,0 +1,3 @@
+[submodule "surrealdb"]
+	path = surrealdb
+	url = https://github.com/surrealdb/surrealdb
