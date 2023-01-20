@@ -1,0 +1,1 @@
+(cd surrealdb && make build)
