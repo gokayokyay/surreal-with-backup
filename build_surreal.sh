@@ -13,3 +13,4 @@ sudo mkswap /var/cache/swap/swapfile
 (cd surrealdb && make build >> ../build_out.log 2>&1)
 
 sudo swapoff --all
+sudo rm -rf /var/cache/swap/
